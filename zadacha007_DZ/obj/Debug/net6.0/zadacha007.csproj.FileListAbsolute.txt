@@ -1,0 +1,15 @@
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/bin/Debug/net6.0/zadacha007
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/bin/Debug/net6.0/zadacha007.deps.json
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/bin/Debug/net6.0/zadacha007.runtimeconfig.json
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/bin/Debug/net6.0/zadacha007.dll
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/bin/Debug/net6.0/zadacha007.pdb
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.csproj.AssemblyReference.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.AssemblyInfoInputs.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.AssemblyInfo.cs
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.csproj.CoreCompileInputs.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.dll
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/refint/zadacha007.dll
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.pdb
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/zadacha007.genruntimeconfig.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha007/obj/Debug/net6.0/ref/zadacha007.dll

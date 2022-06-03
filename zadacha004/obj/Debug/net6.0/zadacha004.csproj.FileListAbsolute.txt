@@ -1,0 +1,15 @@
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/bin/Debug/net6.0/zadacha004
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/bin/Debug/net6.0/zadacha004.deps.json
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/bin/Debug/net6.0/zadacha004.runtimeconfig.json
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/bin/Debug/net6.0/zadacha004.dll
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/bin/Debug/net6.0/zadacha004.pdb
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.csproj.AssemblyReference.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.AssemblyInfoInputs.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.AssemblyInfo.cs
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.csproj.CoreCompileInputs.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.dll
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/refint/zadacha004.dll
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.pdb
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/zadacha004.genruntimeconfig.cache
+/Users/pavel/Documents/IT/2022-05-30_C#_seminar (Dvumerniya massivi i Recursiya)/zadacha004/obj/Debug/net6.0/ref/zadacha004.dll
